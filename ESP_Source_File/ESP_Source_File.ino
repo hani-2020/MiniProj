@@ -26,10 +26,10 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 MPU9250_WE myMPU9250 = MPU9250_WE(MPU9250_ADDR);
 
 //Notification system settings
-const char* ssid = "JioFiber-Pathayam";
-const char* password = "pathayam2024";
-String phoneNumber = "918156853991";
-String apiKey = "2121873";
+const char* ssid = "Your wifi name";
+const char* password = "  Your wifi password";
+String phoneNumber = "your whatsapp number with country code (please omit symbols like +";
+String apiKey = "your call me bot api key";
 
 //send notification function
 void sendMessage(String message){
