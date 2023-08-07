@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SignGlove/static/css/main.374473f6.css",
-    "main.js": "/SignGlove/static/js/main.5c12234a.js",
+    "main.js": "/SignGlove/static/js/main.9df71756.js",
     "index.html": "/SignGlove/index.html",
     "main.374473f6.css.map": "/SignGlove/static/css/main.374473f6.css.map",
-    "main.5c12234a.js.map": "/SignGlove/static/js/main.5c12234a.js.map"
+    "main.9df71756.js.map": "/SignGlove/static/js/main.9df71756.js.map"
   },
   "entrypoints": [
     "static/css/main.374473f6.css",
-    "static/js/main.5c12234a.js"
+    "static/js/main.9df71756.js"
   ]
 }
