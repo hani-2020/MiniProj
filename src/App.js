@@ -236,7 +236,7 @@ function App() {
         ring[1]=0;
         pinky[1]=0;  
         scanned=false;  
-      }\n`+ conditionals +'}\n'
+      }\n`+ conditionals +'delay(2000)}\n'
       )
   }
   const copyToClip=()=>{
