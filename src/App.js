@@ -54,8 +54,8 @@ function App() {
       let middlecond=inputFields[i].middle===""? "": `&& middlediff${inputFields[i].middle}`;
       let ringcond=inputFields[i].ring===""? "": `&& ringdiff${inputFields[i].ring}`;
       let pinkycond=inputFields[i].pinky===""? "": `&& pinkydiff${inputFields[i].pinky}`;
-      let ycond=inputFields[i].y_angle===""? "": `&& angle.y${inputFields[i].y_angle}`;
-      let zcond=inputFields[i].z_angle===""? "": `&& angle.z${inputFields[i].z_angle}`;
+      let ycond=inputFields[i].y_angle===""? "": `&& angles.y${inputFields[i].y_angle}`;
+      let zcond=inputFields[i].z_angle===""? "": `&& angles.z${inputFields[i].z_angle}`;
       conditionals=conditionals+`if(sent==false ${thumbcond} ${indexcond} ${middlecond} ${ringcond} ${pinkycond} ${ycond} ${zcond}){
         Serial.println("${inputFields[i].message}");
         sendMessage("${inputFields[i].message}");
