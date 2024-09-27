@@ -53,6 +53,6 @@ We are continually working on improvements to SignGlove. Planned updates include
 
 ---
 
-**Visit the Blog:** [https://mbedsyst.blogspot.com/2023/06/signglove-bridging-communication-gap.html]
+**Visit the Blog:** [Blog](https://mbedsyst.blogspot.com/2023/06/signglove-bridging-communication-gap.html)
 
-**Web Application:** The web application for customizing SignGlove firmware can be accessed [https://hani-2020.github.io/SignGlove/].
+**Web Application:** The web application for customizing SignGlove firmware can be accessed [Here](https://hani-2020.github.io/SignGlove/).
